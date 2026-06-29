@@ -1,0 +1,25 @@
+{
+  "name": "flash-bot",
+  "version": "6.2.0",
+  "description": "FLASH-BOT V6.2 — WhatsApp Bot Premium (Baileys) — Moçambique Edition by thebest",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "author": "thebest (MOZ BOTS 2026)",
+  "license": "MIT",
+  "repository": "github.com/thebest-dev087/FLASH-BOT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.18",
+    "@hapi/boom": "^10.0.1",
+    "pino": "^9.5.0",
+    "qrcode-terminal": "^0.12.0",
+    "chalk": "^4.1.2",
+    "axios": "^1.7.7",
+    "node-fetch": "^2.7.0",
+    "form-data": "^4.0.1",
+    "yt-search": "^2.13.1",
+    "moment-timezone": "^0.5.46"
+  }
+}
